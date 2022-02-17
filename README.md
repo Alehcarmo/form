@@ -1,5 +1,5 @@
 <form>
-    <img src="../form/img.jpg.png" width="200" height="300"/>
+    <img src="../form/image.png" width="200" height="300"/>
 </form>
   
 
