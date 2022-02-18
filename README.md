@@ -1,13 +1,17 @@
-<form>
-    <img src="../form/image.png" width="200" height="300"/>
-</form>
+# formulário
+  <img src="../form/image.png">  <br>
+
   
 
 
-# formulário
+
 
 Projeto ainda está em desenvolvimento e as proximas atualizações serão voltadas nas seguintes tarefas:
 
-[x] HTML<br>
-[x] CSS<br>
-[x] Atualização do layout
+[x] Atualização do layout<br>
+<br>
+ 
+Tecnologias utilizadas:
+[x] HTML
+[x] CSS
+
