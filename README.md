@@ -1,6 +1,6 @@
 
 # Formulário
-  <img src="../form/image.jpg">  <br>
+  <img src="./image.png">  <br>
 
   
 
